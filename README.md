@@ -9,8 +9,24 @@
 2. Microsoft Azure services
 
 * Azure technology used :
-1. Storage Accounts (Containers)
-2. Storage accounts static website
+1. Storage Accounts (Containers) :
+
+*  An Azure storage account contains all of your Azure Storage data objects, including blobs, file shares, queues, tables, and disks. 
+
+* The storage account provides a unique namespace for your Azure Storage data that's accessible from anywhere in the world over HTTP or HTTPS. 
+
+* Data in your storage account is durable and highly available, secure, and massively scalable.
+
+
+2. Storage accounts static website :
+
+* You can serve static content (HTML, CSS, JavaScript, and image files) directly from a storage container named $web.
+
+* Azure Storage static website hosting is a great option in cases where you don't require a web server to render content.
+
+
+
+
 
 * API's Used : 
 Total 3 API' are used {fetchData.js}
@@ -24,9 +40,9 @@ Step 1: Login to your azure portal and create a storage account first.
 ![Screenshot (87)](https://user-images.githubusercontent.com/97949958/172020207-e3d7b7ba-5cdb-4b25-9f8c-01196a583ca9.png)
 
 
-Step 2: After Creating a storage account, on that same page select static Website in data management section in resources in the column on left side. After selecting the another page will appear which will be asking you to create a website. By clicking on the enable option on that page your website will be generated automatically. Give the index document and error document name and save the changes made.
-![Screenshot (91)](https://user-images.githubusercontent.com/97949958/172021447-7f4f6738-7480-48de-9ea1-52cd6511f0ee.png)
+Step 2: After Creating a storage account, on that same page select static Website in data management section in resources in the column on left side. After selecting the another page will appear which will be asking you to create a website. By clicking on the enable option on that page your website will be generated automatically and will be served from the container $web. Give the index document and error document name and save the changes made.
 
+![Screenshot (91)](https://user-images.githubusercontent.com/97949958/172021447-7f4f6738-7480-48de-9ea1-52cd6511f0ee.png)
 
 Step 3: Now go to the storage, open the containers and upload the website code files and images.
 
@@ -35,9 +51,10 @@ Step 3: Now go to the storage, open the containers and upload the website code f
 ![Screenshot (93)](https://user-images.githubusercontent.com/97949958/172021644-bf4b51b1-d76c-465f-8cb8-44cb60a319a2.png)
 
 Step 4 : Once done with all of this copy the link that was generated earlier and paste it in browser . 
-         
-         
+                  
          
          --------------------------YOUR WEBSITE WILL BE READY TO WORK-------------------------------    
 
-# a dependabot is also used
+Project demo URL :         
+
+
