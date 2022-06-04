@@ -13,9 +13,10 @@
 1. Storage Accounts (Containers)
 2. Storage accounts static website
 
-* API's Used :
+* API's Used : 
 Total 3 API' are used 
+1. To fetch the default data.
+2. To get user input.
+3. To fill the data.
 
-1. To fetch the default data
-2. To get user input
-3. 
+* step by step process to deploy a website :- 
