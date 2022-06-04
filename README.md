@@ -2,7 +2,7 @@
 * Problem Statement: A web portal to find the profiles of Github accounts and information about their repositories.
 
 * Project Description : The Core idea behind this project is to provide young coding enthusiasts a platform to find the profiles of a github user and information about their repositories and their projects so that it'll be more convenient for coders to get to know about helpful accounts and repos. Using this platform the user will be able to get to know about the repositories that are there on github, there will be some information regarding their education , their  whereabouts. 
-
+Now a days there are many computer students who use GitHub as one of platform for their studies, but sometimes they  have barrier while finding trustworthy and best information containing repositories. so this web portal will help students seeking for good repositories just by entering the name of the repository or the account. After entering the account name on that web we will get to see the username of repository holder, bio, link for the repository, profile info.
 
 * Technology Stack :
 1. HTML & CSS,JavaScript
