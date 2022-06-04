@@ -7,9 +7,11 @@ Now a days there are many computer students who use GitHub as one of platform fo
 * Technology Stack :
 1. HTML & CSS,JavaScript
 2. Microsoft Azure services
+3. VisualStudio Code IDE
+
 
 * Azure technology used :
-1. Storage Accounts (Containers) :
+5. Storage Accounts (Containers) :
 
 *  An Azure storage account contains all of your Azure Storage data objects, including blobs, file shares, queues, tables, and disks. 
 
@@ -24,7 +26,9 @@ Now a days there are many computer students who use GitHub as one of platform fo
 
 * Azure Storage static website hosting is a great option in cases where you don't require a web server to render content.
 
-## 
+## DEPENDABOT :
+A git dependabot is also used.
+Dependabot alleviates that pain by updating your dependencies automatically, so you can spend less time updating dependencies and more time building.
 
 * API's Used : 
 Total 3 API' are used {fetchData.js}
@@ -42,7 +46,7 @@ Step 2: After Creating a storage account, on that same page select static Websit
 
 ![Screenshot (91)](https://user-images.githubusercontent.com/97949958/172021447-7f4f6738-7480-48de-9ea1-52cd6511f0ee.png)
 
-Step 3: Now go to the storage, open the containers and upload the website code files and images.
+Step 3: Now go to the storage, open the containers and upload the website code files which are code using VisualStudio Code as an IDE and images that are required for .
 
 ![Screenshot (92)](https://user-images.githubusercontent.com/97949958/172021621-437b52e3-03b3-490e-a256-abfbd79e4045.png)
 
