@@ -24,9 +24,7 @@
 
 * Azure Storage static website hosting is a great option in cases where you don't require a web server to render content.
 
-
-
-
+## 
 
 * API's Used : 
 Total 3 API' are used {fetchData.js}
@@ -55,6 +53,12 @@ Step 4 : Once done with all of this copy the link that was generated earlier and
          
          --------------------------YOUR WEBSITE WILL BE READY TO WORK-------------------------------    
 
-Project demo URL :         
+Project demo website URL :  https://frtprojectstorage.z13.web.core.windows.net/
 
+Demo video link : https://youtu.be/ZsKZPmECzxU
+ 
+After Images :
 
+![Screenshot (94)](https://user-images.githubusercontent.com/97949958/172022602-3e470720-5455-45c2-83e6-205bfdeec1dc.png)
+
+![Screenshot (95)](https://user-images.githubusercontent.com/97949958/172022604-d09537dd-495f-4442-811f-5ca92cf3d232.png)
