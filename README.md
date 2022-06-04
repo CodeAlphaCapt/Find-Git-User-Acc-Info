@@ -1,2 +1,3 @@
 # FindGitAcc
-Web page to find github profile of users as well as their info
+* Problem Statement: A web portal to find the profiles of Github accounts and information about their repositories.
+
